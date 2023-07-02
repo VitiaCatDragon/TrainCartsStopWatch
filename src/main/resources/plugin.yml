@@ -1,0 +1,5 @@
+name: TrainCartsStopwatch
+version: '${project.version}'
+main: ru.vitiacat.traincartsstopwatch.TrainCartsStopwatch
+api-version: '1.20'
+depend: [ Train_Carts ]
