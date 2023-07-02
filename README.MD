@@ -14,7 +14,7 @@ Then, put another sign and use the placeholder %my_stopwatch% to show stopwatch 
 
 ---
 
-Этот плагин добавляет новую табличку для плагина TrainCarts (и Link Signs)
+Этот плагин добавляет новую табличку для плагина [TrainCarts](https://github.com/bergerhealer/TrainCarts) plugin ([SignLink](https://github.com/bergerhealer/SignLink) необходим)
 
 Она считает, сколько времени прошло с момента прибытия последнего поезда
 
